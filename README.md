@@ -6,7 +6,7 @@ Installation :
         *but if you don't change the base url
         *create folder in www/html with name BFV
         *in this folder , you clone here the project
-    *Fonctionnalite ready to use :
+    *Fonctionnalities ready to use :
         *LOGIN
         *LOGOUT
         *DASHBOARD
@@ -16,6 +16,11 @@ Installation :
             *without pagination
             *without research possibility
         *DELETE CLIENT
+    *CHANGE THE PICTURE OF LOGIN
+    *YOU CAN :
+        *UPDATE CLIENT
+        *OR OTHER FONCTIONNALITIES YOU WANT
+    *THIS IS A WORK OF 4H ONLY
 ADMIN:
     identifiant : admin1
     mdp         ; coca

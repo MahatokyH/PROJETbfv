@@ -1,7 +1,8 @@
 PHP 7 ou plus 
 ==============================
 
-#Installation :
+Installation :
+================
     #Import Database : /data/data.sql
     #Change Database of projet as for you're settings ; user/mdp/database
     #Change the base_url : 
@@ -23,6 +24,7 @@ PHP 7 ou plus
         *UPDATE CLIENT
         *OR OTHER FONCTIONNALITIES YOU WANT
     #THIS IS A WORK OF 4H ONLY
-ADMIN:
+ADMIN
+================
     identifiant : admin1
     mdp         ; coca

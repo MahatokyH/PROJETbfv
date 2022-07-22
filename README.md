@@ -1,4 +1,6 @@
-#PHP 7 ou plus 
+PHP 7 ou plus 
+==============================
+
 #Installation :
     #Import Database : /data/data.sql
     #Change Database of projet as for you're settings ; user/mdp/database
